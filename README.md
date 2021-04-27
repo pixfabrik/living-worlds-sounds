@@ -13,7 +13,7 @@ For instance in the night, we might have a continuous loop of wind blowing throu
 
 Ideally we want separate sounds for each element. This allows us to vary how the sounds come and go and mix with each other, giving a richer, more like-like experience. So instead of a single "forest night sounds" loop, we would want separate sound files for wind, crickets, and owls. The wind and crickets could be continuous loops, and the owls could be chopped into individual hoots so we can vary their sequence.
 
-Of course the sounds we use need to be legal for us to use commercially, and to edit. I expect most sounds in this category will require attribution, and we've got a credits page set up for this.
+Of course the sounds we use need to be legal for us to use commercially, and to edit. I expect most sounds in this category will require attribution, and we've got a [credits page](https://pixfabrik.com/livingworlds/credits/) set up for this.
 
 ## Places To Look
 
