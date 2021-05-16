@@ -18,6 +18,7 @@ Of course the sounds we use need to be legal for us to use commercially, and to 
 ## Places To Look
 
 * https://freesound.org/
+* https://soundbible.com/
 * https://www.freesoundslibrary.com/ambient-sounds/
 * https://www.soundeffectsplus.com/category/nature-and-water/ 
 * https://soundcloud.com/  (Only some sounds here are downloadable with the right license.)
