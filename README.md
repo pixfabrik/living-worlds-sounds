@@ -27,4 +27,8 @@ Let me know if you know of others!
 
 ## Let's Get To It!
 
-Ultimately we'll want to do all of the scenes, but I think it would be helpful if we focus on one at a time. For starters, let's see what we can do for June. I started a [June issue](https://github.com/pixfabrik/living-worlds-sounds/issues/1) for us to discuss in.
+Ultimately we'll want to do all of the scenes, but I think it would be helpful if we focus on the upcoming scenes, with the hope of getting enough sounds together to release a version of the app with at least one month's worth of sounds in time for that month to be the current month. I originally hoped that could be [June](https://github.com/pixfabrik/living-worlds-sounds/issues/1), but June is approaching and we're not ready yet. I've started issues for [July](https://github.com/pixfabrik/living-worlds-sounds/issues/5), [August](https://github.com/pixfabrik/living-worlds-sounds/issues/6), and [September](https://github.com/pixfabrik/living-worlds-sounds/issues/3), and we can work on those simultaneously. Hopefully one of them will be ready in time! 
+
+Please click into one of those months for information about the sounds we need. 😊
+
+
